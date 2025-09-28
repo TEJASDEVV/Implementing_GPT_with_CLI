@@ -1,0 +1,10 @@
+transformers
+torch
+datasets
+sentencepiece
+numpy
+tqdm
+click
+transformers
+json
+from transformers import AutoTokenizer, Trainer, TrainingArguments
