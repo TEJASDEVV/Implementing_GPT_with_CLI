@@ -41,4 +41,4 @@ This notebook is ideal for learners who want to:
 ---
 
 ## ⚙️ Requirements
-  requirements modles are stored in `requirements.txt` 
+  requirements moduls are stored in `requirements.txt` 
